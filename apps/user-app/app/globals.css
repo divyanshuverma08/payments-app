@@ -1,0 +1,3 @@
+@import '@repo/ui/styles/styles.css';
+@source "../app/**/*.{ts,tsx}"; /* Current app */
+@source "../../../packages/ui/**/*.{ts,tsx}"; /* Any components in ui package*/
